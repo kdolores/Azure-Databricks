@@ -2,7 +2,7 @@
 // MAGIC %md
 // MAGIC ####Option 1: Connect to SQL Database
 // MAGIC #####Using JDBC
-// MAGIC Databricks Runtime contains JDBC drivers for SQL Server and Azure SQL Database
+// MAGIC Nota: Databricks Runtime contains JDBC drivers for SQL Server and Azure SQL Database
 
 // COMMAND ----------
 
