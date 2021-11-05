@@ -38,7 +38,7 @@ val configs = Map(
 
 // COMMAND ----------
 
-// Optionally, you can add <directory-name> to the source URI of your mount point.
+// Mount point 
 dbutils.fs.mount(
   source = "abfss://<container>@<nombre-storage>.dfs.core.windows.net/",
   mountPoint = "/mnt/<nombre>",
